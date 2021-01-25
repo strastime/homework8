@@ -14,12 +14,9 @@ public class Map  extends JPanel {
     static final int getGameHumvsHum = 1;
 
     private int mode;
-
     private boolean dannie;
-
     private int cellWight;
     private int cellHeight;
-
 
     public Map(FormMain gameWindow) {
         this.formMain = gameWindow;
